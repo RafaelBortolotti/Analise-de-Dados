@@ -18,3 +18,13 @@ Como a Legislação Brasileira define que apenas águas com o pH entre 6 e 9 sej
 surgiu a seguinte pergunta:
 
 **Deve-se suspender o fornecimento de água das regiões abastecidas pela represa Billings?**
+
+# Hipóteses
+
+Para responder a pergunta se deve-se ou não suspender o abastecimento de água, precisamos saber se a média do pH medido a partir das 100 amostras é
+estatisticamente igual a 6 ou inferior a 6. A Hipótese Nula sempre apresentará uma igualdade, pois é sob essa condição que calculamos a estatística do 
+teste. Já a Hipótese Alternativa sempre apresentará uma desigualdade.
+
+Dessa forma, teremos as seguintes hipóteses nula e alternativa:
+- 𝐻0: O pH das águas da represa Billings é igual a 6, ou: pH = 6
+- 𝐻1: O pH das águas da represa Billings é inferior a 6, ou: pH < 6

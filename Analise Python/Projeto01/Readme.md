@@ -28,3 +28,8 @@ teste. Já a Hipótese Alternativa sempre apresentará uma desigualdade.
 Dessa forma, teremos as seguintes hipóteses nula e alternativa:
 - 𝐻0: O pH das águas da represa Billings é igual a 6, ou: pH = 6
 - 𝐻1: O pH das águas da represa Billings é inferior a 6, ou: pH < 6
+
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/e8c96561-afda-427b-99f1-0d758bd20c61)
+
+
+

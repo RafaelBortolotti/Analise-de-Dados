@@ -32,4 +32,11 @@ Dessa forma, teremos as seguintes hipóteses nula e alternativa:
 Escala de significância de Fisher:
 ![image](https://github.com/RafaelBortolotti/Analise-de-Dados/blob/main/Analise%20Python/Projeto01/imagens/Captura%20de%20tela%202024-03-20%20224524.png)
 
+# Conclusão:
+- A estatística do teste t é próxima de zero, indicando uma diferença muito pequena entre a média da amostra e a média.
+- O valor do teste t indica o quanto H0 é plausivel. O valor p é alto, indicando que NÃO há evidências suficientes para rejeitar a hipótese nula de que a média da amostra é igual à média informada.
+- Os graus de liberdade são 99, o que é importante para calcular o valor crítico e interpretar a estatística do teste t.
+
+## Recomendação: Não suspender o abastecimento de água
+
 

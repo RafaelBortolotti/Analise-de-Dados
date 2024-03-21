@@ -29,7 +29,7 @@ Dessa forma, teremos as seguintes hipóteses nula e alternativa:
 - 𝐻0: O pH das águas da represa Billings é igual a 6, ou: pH = 6
 - 𝐻1: O pH das águas da represa Billings é inferior a 6, ou: pH < 6
 
-![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/e8c96561-afda-427b-99f1-0d758bd20c61)
-
+Escala de significância de Fisher:
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/blob/main/Analise%20Python/Projeto01/imagens/Captura%20de%20tela%202024-03-20%20224524.png)
 
 

@@ -29,14 +29,52 @@ Dessa forma, teremos as seguintes hipóteses nula e alternativa:
 - 𝐻0: O pH das águas da represa Billings é igual a 6, ou: pH = 6
 - 𝐻1: O pH das águas da represa Billings é inferior a 6, ou: pH < 6
 
-Escala de significância de Fisher:
-![image](https://github.com/RafaelBortolotti/Analise-de-Dados/blob/main/Analise%20Python/Projeto01/imagens/Captura%20de%20tela%202024-03-20%20224524.png)
 
 # Conclusão:
 - A estatística do teste t é próxima de zero, indicando uma diferença muito pequena entre a média da amostra e a média.
-- O valor do teste t indica o quanto H0 é plausivel. O valor p é alto, indicando que NÃO há evidências suficientes para rejeitar a hipótese nula de que a média da amostra é igual à média informada.
+- O valor p é alto, indicando que NÃO há evidências suficientes para rejeitar a hipótese nula de que a média da amostra é igual à média informada.
 - Os graus de liberdade são 99, o que é importante para calcular o valor crítico e interpretar a estatística do teste t.
 
-## Recomendação: Não suspender o abastecimento de água
+Escala de significância de Fisher:
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/blob/main/Analise%20Python/Projeto01/imagens/Captura%20de%20tela%202024-03-20%20224524.png)
+
+- **Recomendação: Não suspender o abastecimento de água**
+
+# Preparação dos Dados
+
+- Bliblioteca utilizadas
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/7362f92b-5fba-4dde-a476-6bfa8f74ba39)
+
+- Carrega os dados e conta o número de linhas e colunas
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/fa89f767-9d0e-49bc-92cc-078bfcd4b8b5)
+
+- Filtragem de linhas e colunas e ao final conta o número de linhas e colunas
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/753ce19e-e785-4a98-9530-c2e0923de6cb)
+
+- Renomeia as colunas com os nomes corretos
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/4cd02790-7fed-4620-b5e2-62f635663764)
+
+- Mostra o tipo dos dados
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/2825bc79-2a91-4954-a789-0052ebf21261)
+
+- Fornece informações mais detalhadas
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/5ddef273-a33f-4e2b-94da-8346ec7b8d49)
+
+- Altera o formato dos dados 
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/02482d4e-670d-4827-b817-e31640b36532)
+
+- Calculo da distribuição dos dados que serão utilizadas no teste A/B
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/9440cd4f-b19d-430f-bacd-01f78b831d76)
+
+- Análise da distribuição dos dados
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/b85033e6-9ef5-43ba-a683-dcd07858e1ae)
+
+# Teste de Hipóteses
+
+![image](https://github.com/RafaelBortolotti/Analise-de-Dados/assets/48927975/a9b5c747-1efc-48ed-abf1-2bcb0063714d)
+
+
+
+
 
 

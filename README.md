@@ -6,6 +6,6 @@ Cada projeto aborda diferentes temas e problemas, o que me permite explorar uma 
 
 # Projetos
 
-- [Análises com Python]
-- [Análises com Excel]
-- [Análises com Power BI]
+- Análises com Python
+- Análises com Excel
+- Análises com Power BI

@@ -6,6 +6,6 @@ Cada projeto aborda diferentes temas e problemas, o que me permite explorar uma 
 
 # Projetos
 
-- Análises com Python
+- [Análises com Python]([url](https://github.com/RafaelBortolotti/Analise-de-Dados/tree/main/Analise%20Python)https://github.com/RafaelBortolotti/Analise-de-Dados/tree/main/Analise%20Python)
 - Análises com Excel
 - Análises com Power BI
